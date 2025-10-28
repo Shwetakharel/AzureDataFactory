@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryshweta",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8579f8ea-2f00-453d-bfdd-5a2d9a7aa1d8",
+		"tenantId": "b0303b6e-6188-43b5-a166-b2675492b14a"
+	}
+}

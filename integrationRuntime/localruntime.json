@@ -1,0 +1,6 @@
+{
+	"name": "localruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
